@@ -2,7 +2,7 @@
 This is a practice project in which I tried to make a sample page using just HTML, CSS and JavaScript. 
 
 I made this in order understand the concepts of JavaScript.
-
+https://github.com/M4n-0j/Rock-Paper-Scissor.git
 ## Table of contents
 - [Overview](#overview)
     - [How to play ?](#rock-paper-and-scissors-game) ✌️
